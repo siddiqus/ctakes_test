@@ -1,0 +1,5 @@
+- download User Installation from http://ctakes.apache.org/downloads.cgi
+- set ctakes folder path in main class
+- build project (this will create the 'org' folder in root
+- move res/dictionary to org/apache/ctakes/
+- compile / run
